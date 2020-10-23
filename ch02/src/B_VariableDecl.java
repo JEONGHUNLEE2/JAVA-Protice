@@ -1,0 +1,19 @@
+
+public class B_VariableDecl
+{
+
+	public static void main(String[] args)
+	{
+		double num1, num2;
+		double result;
+		
+		num1 = 1.0000001;
+		System.out.println(num1);
+		num2 = 2.0000001;
+		System.out.println(num2);
+		result = num1 + num2;
+		System.out.println(result);
+		
+	}
+
+}
