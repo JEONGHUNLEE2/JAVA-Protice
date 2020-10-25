@@ -43,3 +43,4 @@ public class MyExam
 	}
 
 }
+Q. void 처리하는거랑 int 처리하는거랑 차이가 뭘까..
